@@ -1,0 +1,9 @@
+# ninja log v5
+1	3572	1720166518552491590	/home/robosense/MZW/Mamba/Vim-main/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_update.o	8b1ef4cc3e43c143
+1	9124	1720166524096574674	/home/robosense/MZW/Mamba/Vim-main/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_fwd.o	5f43623d932d415b
+1	13635	1720166528604643728	/home/robosense/MZW/Mamba/Vim-main/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d.o	31bfe56d88daf2be
+1	27510	1720166542464864250	/home/robosense/MZW/Mamba/Vim-main/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_bwd.o	34202719a320332e
+23	2155	1728918338568765855	/home/vci-5/MZW/OccMamba/OccMamba_vim2/core/models/Vimamba/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_update.o	5ecf1b5d0a518a60
+23	6075	1728918342484695785	/home/vci-5/MZW/OccMamba/OccMamba_vim2/core/models/Vimamba/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_fwd.o	cb6139232f30393e
+23	9487	1728918345896635166	/home/vci-5/MZW/OccMamba/OccMamba_vim2/core/models/Vimamba/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d.o	f3a794b729177daa
+23	18626	1728918355028474904	/home/vci-5/MZW/OccMamba/OccMamba_vim2/core/models/Vimamba/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_bwd.o	a430226afd1777bf

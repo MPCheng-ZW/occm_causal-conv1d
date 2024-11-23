@@ -1,0 +1,5 @@
+# ninja log v5
+1	3615	1724920639486340485	/home/robosense/MZW/OccMamba/OccMamba_vim/core/models/Vimamba/causal-conv1d/build/temp.linux-x86_64-cpython-38/csrc/causal_conv1d_update.o	effbbd67450f8fba
+1	9093	1724920644954471005	/home/robosense/MZW/OccMamba/OccMamba_vim/core/models/Vimamba/causal-conv1d/build/temp.linux-x86_64-cpython-38/csrc/causal_conv1d_fwd.o	99574ab154e047aa
+0	20733	1724920656582750716	/home/robosense/MZW/OccMamba/OccMamba_vim/core/models/Vimamba/causal-conv1d/build/temp.linux-x86_64-cpython-38/csrc/causal_conv1d.o	cd94a1a829251e76
+0	27241	1724920663086908420	/home/robosense/MZW/OccMamba/OccMamba_vim/core/models/Vimamba/causal-conv1d/build/temp.linux-x86_64-cpython-38/csrc/causal_conv1d_bwd.o	61031e5b42c80c7a
